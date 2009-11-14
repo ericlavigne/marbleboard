@@ -11,9 +11,9 @@ With a new twist on traditional aesthetic qualities, combined with the practical
 
 >Eric's one of a kind marble go board is not commercially available, but he says "it's easy to build if you have the right drill bit."
 
-![Empty marble go board](raw/master/images/emptyboard.jpg "Empty board")
-![19x19 game on a marble go board](raw/master/images/19x19game.jpg "19x19 game")
+![Empty marble go board](http://github.com/ericlavigne/marbleboard/raw/master/images/emptyboard.jpg "Empty board")
+![19x19 game on a marble go board](http://github.com/ericlavigne/marbleboard/raw/master/images/19x19game.jpg "19x19 game")
 
-![Four 9x9 handicap games on a marble go board](raw/master/images/9x9games.jpg "Four 9x9 handicap games")
-![Marble go board tilted to 45 degrees](raw/master/images/slanted.jpg "Tilted to 45 degrees")
+![Four 9x9 handicap games on a marble go board](http://github.com/ericlavigne/marbleboard/raw/master/images/9x9games.jpg "Four 9x9 handicap games")
+![Marble go board tilted to 45 degrees](http://github.com/ericlavigne/marbleboard/raw/master/images/slanted.jpg "Tilted to 45 degrees")
 
